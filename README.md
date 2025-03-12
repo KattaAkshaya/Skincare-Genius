@@ -3,6 +3,7 @@
 
 ## Overview
 **Skincare Genius** is an AI-powered skincare tracking and recommendation app that helps users monitor their skin health and find the best skincare routines. The app leverages AI to provide **personalized skincare advice**, **diet recommendations**, and **weather-based skincare tips**, ensuring that users receive tailored solutions based on their skin type and environmental conditions.
+ **Live Demo:** [Skincare Genius](https://skincare-genius.streamlit.app)  
 
 ---
 
